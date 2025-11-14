@@ -1,11 +1,11 @@
 {
-  "updatedAt": 1763115361762,
+  "updatedAt": 1763115597528,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
       "date_iso": "2025-12-07T23:00:00.000Z",
       "label_de": "7. Dez. 2025",
-      "status": "open",
+      "status": "fully_booked",
       "stripe_price_id_praxis": "price_1ST7hxFb0sVsyPTRyFv4H8Il",
       "stripe_price_id_kombi": "price_1ST7jpFb0sVsyPTRjJOuFBhh"
     },
@@ -13,7 +13,7 @@
       "id": "01K9ZGCBSCGA49BT9PZY4CHK3W",
       "date_iso": "2025-12-13T23:00:00.000Z",
       "label_de": "13. Dez. 2025",
-      "status": "open",
+      "status": "fully_booked",
       "stripe_price_id_praxis": "price_1ST7hxFb0sVsyPTRyFv4H8Il",
       "stripe_price_id_kombi": "price_1ST7ggFb0sVsyPTRLswh0amK"
     },

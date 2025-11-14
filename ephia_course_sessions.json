@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1763111370641,
+  "updatedAt": 1763111476614,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -29,7 +29,7 @@
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJQ",
       "date_iso": "2026-02-15T23:00:00.000Z",
       "label_de": "15. Feb. 2026",
-      "status": "fully_booked",
+      "status": "open",
       "stripe_price_id_praxis": "price_1SRfx9Fb0sVsyPTRYI5xr03P",
       "stripe_price_id_kombi": "price_1ST6npFb0sVsyPTRDxK6w4AG"
     },

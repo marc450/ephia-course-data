@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1763314763930,
+  "updatedAt": 1763320893804,
   "courses": [
     {
       "course_key": "grundkurs_dermalfiller",
@@ -14,9 +14,9 @@
       "vat_rate_online": "0.19",
       "vat_rate_praxis": "0.19",
       "vat_rate_kombi": "0.19",
-      "description_online": "Unser Onlinekurs Dermalfiller richtet sich an approbierte Ärzt:innen",
+      "description_online": "Der Onlinekurs Dermalfiller richtet sich an Ärzt:innen",
       "description_praxis": "In einer privaten Praxisumgebung in Berlin wendest Du Deine existierenden theoretischen Kenntnisse an echten Patient:innen an. Dabei wirst Du während der ganzen Zeit über von erfahrenen Ärzt:innen begleitet.",
-      "description_kombi": "Im Kombikurs Dermalfiller verbindest Du unseren Onlinekurs mit dem Praxiskurs in Berlin. Der Kurs ist ideal für Einsteiger:innen",
+      "description_kombi": "Im Kombikurs Dermalfiller verbindest Du Onlinekurs und Praxiskurs in Berlin und lernst Fillerbehandlungen an echten Patient:innen unter Begleitung erfahrener Ärzt:innen.",
       "success_url_online": "https://www.ephia.de/vielen-lieben-dank",
       "success_url_praxis": "https://www.ephia.de/vielen-lieben-dank-praxiskurs",
       "success_url_kombi": "https://www.ephia.de/vielen-lieben-dank",
@@ -38,9 +38,9 @@
       "vat_rate_online": "0.19",
       "vat_rate_praxis": "0.19",
       "vat_rate_kombi": "0.19",
-      "description_online": "die erste Schritte in der Behandlung von Patient:innen mit Dermalfillern gehen möchten",
+      "description_online": "die sicher in Fillerbehandlungen einsteigen oder ihr Basiswissen auffrischen wollen",
       "description_praxis": "In einer privaten Praxisumgebung in Berlin wendest Du Deine existierenden theoretischen Kenntnisse an echten Patient:innen an. Dabei wirst Du während der ganzen Zeit über von erfahrenen Ärzt:innen begleitet.",
-      "description_kombi": "die Theorie und praktische Anwendung an echten Patient:innen im Bereich Fillerbehandlungen kombinieren möchten. Unsere Community begleitet Dich auch nach dem Kurs mit kontinuierlicher Unterstützung.",
+      "description_kombi": "Im Kombikurs Botulinum verbindest Du Onlinekurs und Praxiskurs in Berlin und wendest Deine Theorie an echten Patient:innen unter Begleitung erfahrener Ärzt:innen an.",
       "success_url_online": "https://www.ephia.de/vielen-lieben-dank",
       "success_url_praxis": "https://www.ephia.de/vielen-lieben-dank-praxiskurs",
       "success_url_kombi": "https://www.ephia.de/vielen-lieben-dank",

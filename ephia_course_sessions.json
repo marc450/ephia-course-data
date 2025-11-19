@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1763331623485,
+  "updatedAt": 1763546913436,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -46,8 +46,8 @@
       "date_iso": "2026-03-21T23:00:00.000Z",
       "label_de": "21. März 2026",
       "status": "open",
-      "start_time": "10:00",
-      "end_time": "16:00"
+      "start_time": "15:30",
+      "end_time": "21:30"
     }
   ]
 }

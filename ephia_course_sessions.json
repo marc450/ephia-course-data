@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1763547188011,
+  "updatedAt": 1763589124939,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -48,6 +48,22 @@
       "status": "open",
       "start_time": "15:30",
       "end_time": "20:30"
+    },
+    {
+      "id": "01KAF1E951X6MC09JZ0EGH5ZYS",
+      "date_iso": "2026-03-22T23:00:00.000Z",
+      "label_de": "22. März 2026",
+      "status": "open",
+      "start_time": "10:00",
+      "end_time": "16:00"
+    },
+    {
+      "id": "01KAF1HTF398T763Y85KJ9KNJK",
+      "date_iso": "2026-07-05T23:00:00.000Z",
+      "label_de": "5. July 2026",
+      "status": "open",
+      "start_time": "10:00",
+      "end_time": "16:00"
     }
   ]
 }

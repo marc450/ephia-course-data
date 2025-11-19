@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1763546913436,
+  "updatedAt": 1763547188011,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -47,7 +47,7 @@
       "label_de": "21. März 2026",
       "status": "open",
       "start_time": "15:30",
-      "end_time": "21:30"
+      "end_time": "20:30"
     }
   ]
 }

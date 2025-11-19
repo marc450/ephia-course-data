@@ -1,11 +1,12 @@
 {
-  "updatedAt": 1763590932306,
+  "updatedAt": 1763591088084,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
       "date_iso": "2025-12-07T23:00:00.000Z",
       "label_de": "7. Dez. 2025",
       "status": "fully_booked",
+      "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"
     },
@@ -14,6 +15,7 @@
       "date_iso": "2025-12-13T23:00:00.000Z",
       "label_de": "13. Dez. 2025",
       "status": "fully_booked",
+      "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"
     },
@@ -22,6 +24,7 @@
       "date_iso": "2026-01-18T23:00:00.000Z",
       "label_de": "18. Jan. 2026",
       "status": "open",
+      "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"
     },
@@ -30,6 +33,7 @@
       "date_iso": "2026-02-15T23:00:00.000Z",
       "label_de": "15. Feb. 2026",
       "status": "open",
+      "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"
     },
@@ -38,6 +42,7 @@
       "date_iso": "2026-02-22T23:00:00.000Z",
       "label_de": "22. Feb. 2026",
       "status": "open",
+      "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"
     },
@@ -46,6 +51,7 @@
       "date_iso": "2026-03-21T23:00:00.000Z",
       "label_de": "21. März 2026",
       "status": "open",
+      "course_key": "grundkurs_botulinum",
       "start_time": "15:30",
       "end_time": "20:30"
     },
@@ -54,6 +60,7 @@
       "date_iso": "2026-03-22T23:00:00.000Z",
       "label_de": "22. März 2026",
       "status": "open",
+      "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
       "end_time": "16:00"
     },
@@ -62,6 +69,7 @@
       "date_iso": "2026-07-05T23:00:00.000Z",
       "label_de": "5. July 2026",
       "status": "open",
+      "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
       "end_time": "16:00"
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1763591141670,
+  "updatedAt": 1763640632624,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -16,6 +16,15 @@
       "label_de": "13. Dez. 2025",
       "status": "fully_booked",
       "course_key": "grundkurs_botulinum",
+      "start_time": "10:00",
+      "end_time": "16:00"
+    },
+    {
+      "id": "01KAGJGKGQQPARG0GE29D06ZVP",
+      "date_iso": "2026-01-11T23:00:00.000Z",
+      "label_de": "11. Jan. 2026",
+      "status": "open",
+      "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"
     },
@@ -61,6 +70,15 @@
       "label_de": "22. März 2026",
       "status": "open",
       "course_key": "grundkurs_dermalfiller",
+      "start_time": "10:00",
+      "end_time": "16:00"
+    },
+    {
+      "id": "01KAGJNSFDSGHXR8B4K5HESZFT",
+      "date_iso": "2026-05-17T23:00:00.000Z",
+      "label_de": "17. Mai 2026",
+      "status": "open",
+      "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"
     },

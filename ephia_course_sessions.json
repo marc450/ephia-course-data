@@ -1,11 +1,11 @@
 {
-  "updatedAt": 1763934709893,
+  "updatedAt": 1763993521182,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
       "date_iso": "2025-12-07T23:00:00.000Z",
       "label_de": "7. Dez. 2025",
-      "status": "fully_booked",
+      "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"

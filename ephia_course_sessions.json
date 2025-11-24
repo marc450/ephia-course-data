@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1764024466736,
+  "updatedAt": 1764024617098,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -14,7 +14,7 @@
       "id": "01K9ZGCBSCGA49BT9PZY4CHK3W",
       "date_iso": "2025-12-13T23:00:00.000Z",
       "label_de": "13. Dez. 2025",
-      "status": "open",
+      "status": "fully_booked",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"
@@ -77,7 +77,7 @@
       "id": "01KAGJNSFDSGHXR8B4K5HESZFT",
       "date_iso": "2026-05-17T23:00:00.000Z",
       "label_de": "17. Mai 2026",
-      "status": "open",
+      "status": "fully_booked",
       "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
       "start_time": "10:00",
       "end_time": "16:00"

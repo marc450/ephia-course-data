@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1764025005400,
+  "updatedAt": 1764068930683,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -8,7 +8,8 @@
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 1
     },
     {
       "id": "01K9ZGCBSCGA49BT9PZY4CHK3W",
@@ -17,7 +18,8 @@
       "status": "fully_booked",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 0
     },
     {
       "id": "01KAGJGKGQQPARG0GE29D06ZVP",
@@ -26,7 +28,8 @@
       "status": "open",
       "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 6
     },
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJP",
@@ -35,7 +38,8 @@
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 7
     },
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJQ",
@@ -44,7 +48,8 @@
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 3
     },
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJR",
@@ -53,7 +58,8 @@
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 7
     },
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJS",
@@ -62,7 +68,8 @@
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "15:30",
-      "end_time": "21:30"
+      "end_time": "21:30",
+      "seats_left": 7
     },
     {
       "id": "01KAF1E951X6MC09JZ0EGH5ZYS",
@@ -71,7 +78,8 @@
       "status": "open",
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 5
     },
     {
       "id": "01KAGJNSFDSGHXR8B4K5HESZFT",
@@ -80,7 +88,8 @@
       "status": "open",
       "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 7
     },
     {
       "id": "01KAF1HTF398T763Y85KJ9KNJK",
@@ -89,7 +98,8 @@
       "status": "open",
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
-      "end_time": "16:00"
+      "end_time": "16:00",
+      "seats_left": 7
     }
   ]
 }

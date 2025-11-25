@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1764088401168,
+  "updatedAt": 1764094493026,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -29,7 +29,7 @@
       "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 6
+      "seats_left": 5
     },
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJP",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1764346588069,
+  "updatedAt": 1764354664665,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -15,11 +15,11 @@
       "id": "01K9ZGCBSCGA49BT9PZY4CHK3W",
       "date_iso": "2025-12-13T23:00:00.000Z",
       "label_de": "13. Dez. 2025",
-      "status": "fully_booked",
+      "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 0
+      "seats_left": 1
     },
     {
       "id": "01KAGJGKGQQPARG0GE29D06ZVP",
@@ -39,7 +39,7 @@
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 5
+      "seats_left": 4
     },
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJQ",

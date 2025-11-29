@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1764444757432,
+  "updatedAt": 1764444774623,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
@@ -64,7 +64,7 @@
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJS",
       "date_iso": "2026-03-21T23:00:00.000Z",
-      "label_de": "21. März 2026",
+      "label_de": "21. Mär 2026",
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "15:30",
@@ -74,7 +74,7 @@
     {
       "id": "01KAF1E951X6MC09JZ0EGH5ZYS",
       "date_iso": "2026-03-22T23:00:00.000Z",
-      "label_de": "22. März 2026",
+      "label_de": "22. Mär 2026",
       "status": "open",
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
@@ -94,7 +94,7 @@
     {
       "id": "01KAF1HTF398T763Y85KJ9KNJK",
       "date_iso": "2026-07-05T23:00:00.000Z",
-      "label_de": "5. Juli 2026",
+      "label_de": "5. Jul 2026",
       "status": "open",
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",

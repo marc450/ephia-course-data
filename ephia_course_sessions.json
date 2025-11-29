@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1764354682200,
+  "updatedAt": 1764444757432,
   "rows": [
     {
       "id": "01K9ZGKS9FR3TKAJV9G6B4R96H",
       "date_iso": "2025-12-07T23:00:00.000Z",
-      "label_de": "7. Dez. 2025",
+      "label_de": "7. Dez 2025",
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
@@ -14,7 +14,7 @@
     {
       "id": "01K9ZGCBSCGA49BT9PZY4CHK3W",
       "date_iso": "2025-12-13T23:00:00.000Z",
-      "label_de": "13. Dez. 2025",
+      "label_de": "13. Dez 2025",
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
@@ -24,7 +24,7 @@
     {
       "id": "01KAGJGKGQQPARG0GE29D06ZVP",
       "date_iso": "2026-01-11T23:00:00.000Z",
-      "label_de": "11. Jan. 2026",
+      "label_de": "11. Jan 2026",
       "status": "open",
       "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
       "start_time": "10:00",
@@ -34,7 +34,7 @@
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJP",
       "date_iso": "2026-01-18T23:00:00.000Z",
-      "label_de": "18. Jan. 2026",
+      "label_de": "18. Jan 2026",
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
@@ -44,7 +44,7 @@
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJQ",
       "date_iso": "2026-02-15T23:00:00.000Z",
-      "label_de": "15. Feb. 2026",
+      "label_de": "15. Feb 2026",
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
@@ -54,7 +54,7 @@
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJR",
       "date_iso": "2026-02-22T23:00:00.000Z",
-      "label_de": "22. Feb. 2026",
+      "label_de": "22. Feb 2026",
       "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",

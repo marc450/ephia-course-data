@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1765121872926,
+  "updatedAt": 1765121890604,
   "rows": [
     {
       "id": "01K9ZGCBSCGA49BT9PZY4CHK3W",
@@ -104,7 +104,7 @@
     {
       "id": "01KAF1HTF398T763Y85KJ9KNJK",
       "date_iso": "2026-07-05T23:00:00.000Z",
-      "label_de": "5. Jul 2026",
+      "label_de": "05. Jul 2026",
       "status": "open",
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",

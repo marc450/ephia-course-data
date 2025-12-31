@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1767198424859,
+  "updatedAt": 1767198442781,
   "courses": [
     {
       "course_key": "grundkurs_medizinische_hautpflege",
@@ -27,7 +27,7 @@
     },
     {
       "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
-      "course_label_de": "Aufbaukurs therapeutische Indikationen für Botulinum",
+      "course_label_de": "Aufbaukurs Botulinum - therapeutische Indikationen",
       "name_praxis": "Praxiskurs therapeutische Indikationen für Botulinum",
       "name_kombi": "Kombikurs therapeutische Indikationen für Botulinum",
       "name_online": "Onlinekurs therapeutische Indikationen für Botulinum",

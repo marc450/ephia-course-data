@@ -1,6 +1,30 @@
 {
-  "updatedAt": 1767198640465,
+  "updatedAt": 1767203257216,
   "courses": [
+    {
+      "course_key": "aufbaukurs_botulinum_periorale_zone",
+      "course_label_de": "Aufbaukurs Botulinum - Periorale Zone",
+      "name_praxis": "-",
+      "name_kombi": "-",
+      "name_online": "Onlinekurs periorale Zone für Botulinum",
+      "currency": "EUR",
+      "price_gross_online": "340",
+      "price_gross_praxis": "0",
+      "price_gross_kombi": "0",
+      "vat_rate_online": "0.19",
+      "vat_rate_praxis": "0",
+      "vat_rate_kombi": "0",
+      "description_online": "In diesem Onlinekurs lernst Du den gezielten und verantwortungsvollen Einsatz von Botulinum in der perioralen Zone und erhältst praxisnahes Wissen zu Diagnostik und Behandlung.",
+      "description_praxis": "-",
+      "description_kombi": "-",
+      "success_url_online": "https://www.ephia.de/vielen-lieben-dank",
+      "success_url_praxis": "-",
+      "success_url_kombi": "-",
+      "cancel_url_online": "https://www.ephia.de/aufbaukurs-botulinum-periorale-zone",
+      "cancel_url_praxis": "-",
+      "cancel_url_kombi": "-",
+      "status": "live"
+    },
     {
       "course_key": "grundkurs_medizinische_hautpflege",
       "course_label_de": "Grundkurs medizinische Hautpflege",
@@ -27,7 +51,7 @@
     },
     {
       "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
-      "course_label_de": "Aufbaukurs Botulinum - therapeutische Indikationen",
+      "course_label_de": "Aufbaukurs Botulinum - Therapeutische Indikationen",
       "name_praxis": "Praxiskurs therapeutische Indikationen für Botulinum",
       "name_kombi": "Kombikurs therapeutische Indikationen für Botulinum",
       "name_online": "Onlinekurs therapeutische Indikationen für Botulinum",

@@ -1,12 +1,12 @@
 {
-  "updatedAt": 1767203275041,
+  "updatedAt": 1767204401770,
   "courses": [
     {
       "course_key": "aufbaukurs_botulinum_periorale_zone",
       "course_label_de": "Aufbaukurs Botulinum - Periorale Zone",
       "name_praxis": "-",
       "name_kombi": "-",
-      "name_online": "Onlinekurs periorale Zone für Botulinum",
+      "name_online": "Onlinekurs Botulinum für periorale Zone",
       "currency": "EUR",
       "price_gross_online": "340",
       "price_gross_praxis": "0",
@@ -54,7 +54,7 @@
       "course_label_de": "Aufbaukurs Botulinum - Therapeutische Indikationen",
       "name_praxis": "Praxiskurs therapeutische Indikationen für Botulinum",
       "name_kombi": "Kombikurs therapeutische Indikationen für Botulinum",
-      "name_online": "Onlinekurs therapeutische Indikationen für Botulinum",
+      "name_online": "Onlinekurs Botulinum für therapeutische Indikationen",
       "currency": "EUR",
       "price_gross_online": "340",
       "price_gross_praxis": "890",

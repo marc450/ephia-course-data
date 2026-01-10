@@ -1,16 +1,6 @@
 {
-  "updatedAt": 1768075148332,
+  "updatedAt": 1768077307177,
   "rows": [
-    {
-      "id": "01KAGJGKGQQPARG0GE29D06ZVP",
-      "date_iso": "2026-01-11T23:00:00.000Z",
-      "label_de": "11. Jan 2026",
-      "status": "open",
-      "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
-      "start_time": "10:00",
-      "end_time": "16:00",
-      "seats_left": 3
-    },
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJP",
       "date_iso": "2026-01-18T23:00:00.000Z",

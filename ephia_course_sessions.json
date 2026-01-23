@@ -1,15 +1,15 @@
 {
-  "updatedAt": 1769195809192,
+  "updatedAt": 1769195844868,
   "rows": [
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJQ",
       "date_iso": "2026-02-15T23:00:00.000Z",
       "label_de": "15. Feb 2026",
-      "status": "open",
+      "status": "fully_booked",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 7
+      "seats_left": 0
     },
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJR",
@@ -45,11 +45,11 @@
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJS",
       "date_iso": "2026-03-21T23:00:00.000Z",
       "label_de": "21. Mär 2026",
-      "status": "fully_booked",
+      "status": "open",
       "course_key": "grundkurs_botulinum",
       "start_time": "15:30",
       "end_time": "21:30",
-      "seats_left": 0
+      "seats_left": 4
     },
     {
       "id": "01KAF1E951X6MC09JZ0EGH5ZYS",
@@ -59,7 +59,7 @@
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 2
+      "seats_left": 1
     },
     {
       "id": "01KEMKN7G9SYD5TS7KGGCDRJV6",
@@ -89,7 +89,7 @@
       "course_key": "grundkurs_botulinum",
       "start_time": "15:30",
       "end_time": "21:30",
-      "seats_left": 5
+      "seats_left": 6
     },
     {
       "id": "01KAGJNSFDSGHXR8B4K5HESZFT",
@@ -99,7 +99,7 @@
       "course_key": "aufbaukurs_therapeutische_indikationen_botulinum",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 7
+      "seats_left": 5
     },
     {
       "id": "01KEMKPT4KA8ABACK8D6V09J2W",
@@ -129,7 +129,7 @@
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 1
+      "seats_left": 5
     }
   ]
 }

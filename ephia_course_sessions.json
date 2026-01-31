@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1769785607061,
+  "updatedAt": 1769864073766,
   "rows": [
     {
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJQ",
@@ -45,11 +45,11 @@
       "id": "01K9ZA5MYY62ZZB5EJ37XYWDJS",
       "date_iso": "2026-03-21T23:00:00.000Z",
       "label_de": "21. Mär 2026",
-      "status": "open",
+      "status": "fully_booked",
       "course_key": "grundkurs_botulinum",
       "start_time": "15:30",
       "end_time": "21:30",
-      "seats_left": 1
+      "seats_left": 0
     },
     {
       "id": "01KAF1E951X6MC09JZ0EGH5ZYS",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1770267721873,
+  "updatedAt": 1770296348424,
   "rows": [
     {
       "id": "01KC6AE7CKD1G1VGYT165E4D2D",
@@ -25,11 +25,11 @@
       "id": "01KAF1E951X6MC09JZ0EGH5ZYS",
       "date_iso": "2026-03-22T23:00:00.000Z",
       "label_de": "22. Mär 2026",
-      "status": "open",
+      "status": "fully_booked",
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 1
+      "seats_left": 0
     },
     {
       "id": "01KEMKN7G9SYD5TS7KGGCDRJV6",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1770833082951,
+  "updatedAt": 1770906564045,
   "rows": [
     {
       "id": "01KC6AE7CKD1G1VGYT165E4D2D",
@@ -45,11 +45,11 @@
       "id": "01KBWPV2C44K2EW4455WSRHX1T",
       "date_iso": "2026-04-19T23:00:00.000Z",
       "label_de": "19. Apr 2026",
-      "status": "open",
+      "status": "fully_booked",
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 1
+      "seats_left": 0
     },
     {
       "id": "01KBWPWAMJXCCT9N895QVF1QJ2",

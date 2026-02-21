@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1771687962828,
+  "updatedAt": 1771687980965,
   "rows": [
     {
       "id": "01KAF1E951X6MC09JZ0EGH5ZYS",
@@ -130,6 +130,16 @@
       "start_time": "15:30",
       "end_time": "21:30",
       "seats_left": 7
+    },
+    {
+      "id": "01KJ0DA15TA0EAV5XE5R8B7CFS",
+      "date_iso": "2026-07-05T23:00:00.000Z",
+      "label_de": "05. Jul 2026",
+      "status": "open",
+      "course_key": "grundkurs_dermalfiller",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "seats_left": 5
     },
     {
       "id": "01KAF1HTF398T763Y85KJ9KNJK",

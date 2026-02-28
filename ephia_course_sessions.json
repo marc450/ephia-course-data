@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1772295033128,
+  "updatedAt": 1772295148043,
   "rows": [
     {
       "id": "01KAF1E951X6MC09JZ0EGH5ZYS",
@@ -139,7 +139,7 @@
       "course_key": "grundkurs_dermalfiller",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 4
+      "seats_left": 5
     }
   ]
 }

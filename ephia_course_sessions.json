@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1772293288974,
+  "updatedAt": 1772293885657,
   "rows": [
     {
       "id": "01KAF1E951X6MC09JZ0EGH5ZYS",
@@ -125,11 +125,11 @@
       "id": "01KBWQ7RGDRQA17NGH7ZYD1WFW",
       "date_iso": "2026-07-04T23:00:00.000Z",
       "label_de": "04. Jul 2026",
-      "status": "open",
+      "status": "fully_booked",
       "course_key": "grundkurs_botulinum",
       "start_time": "15:30",
       "end_time": "21:30",
-      "seats_left": 1
+      "seats_left": 0
     },
     {
       "id": "01KAF1HTF398T763Y85KJ9KNJK",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773512738339,
+  "updatedAt": 1773517228282,
   "rows": [
     {
       "id": "01KEMKN7G9SYD5TS7KGGCDRJV6",
@@ -149,7 +149,7 @@
       "course_key": "aufbaukurs_skulptra",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 5
+      "seats_left": 4
     },
     {
       "id": "01KKPMK4CFWVJW0F9ZNKDPXE55",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773507416407,
+  "updatedAt": 1773507433917,
   "rows": [
     {
       "id": "01KEMKN7G9SYD5TS7KGGCDRJV6",
@@ -30,6 +30,16 @@
       "start_time": "10:00",
       "end_time": "16:00",
       "seats_left": 0
+    },
+    {
+      "id": "01KKPME1GGHNC0BW2ZJBGRQE6C",
+      "date_iso": "2026-05-10T23:00:00.000Z",
+      "label_de": "10. Mai 2026",
+      "status": "open",
+      "course_key": "aufbaukurs_skulptra",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "seats_left": 5
     },
     {
       "id": "01KBWPWAMJXCCT9N895QVF1QJ2",

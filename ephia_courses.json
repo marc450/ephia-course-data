@@ -1,6 +1,30 @@
 {
-  "updatedAt": 1767204419437,
+  "updatedAt": 1773506738194,
   "courses": [
+    {
+      "course_key": "aufbaukurs_skulptra",
+      "course_label_de": "Aufbaukurs Skulptra & Skinbooster",
+      "name_praxis": "Praxiskurs Skulptra & Skinbooster",
+      "name_kombi": "Kombikurs Skulptra & Skinbooster",
+      "name_online": "Onlinekurs Skulptra & Skinbooster",
+      "currency": "EUR",
+      "price_gross_online": "490",
+      "price_gross_praxis": "1040",
+      "price_gross_kombi": "1290",
+      "vat_rate_online": "0.19",
+      "vat_rate_praxis": "0.19",
+      "vat_rate_kombi": "0.19",
+      "description_online": "Der Onlinekurs Biostimulation vermittelt Dir die Grundlagen zur sicheren Anwendung von Poly-Milchsäure und moderner Hauthydratation in Deiner Praxis.",
+      "description_praxis": "In einer privaten Praxisumgebung wendest Du moderne Methoden der Biostimulation mit Poly-Milchsäure und Hauthydratation unter Anleitung erfahrener Ärzt:innen direkt an Patient:innen an.",
+      "description_kombi": "Im Kombikurs Biostimulation verbindest Du Onlinekurs und Praxiskurs und wendest Deine Theorie unter Begleitung erfahrener Ärzt:innen direkt an Patient:innen an.",
+      "success_url_online": "https://www.ephia.de/vielen-lieben-dank",
+      "success_url_praxis": "https://www.ephia.de/vielen-lieben-dank-praxiskurs",
+      "success_url_kombi": "https://www.ephia.de/vielen-lieben-dank",
+      "cancel_url_online": "https://www.ephia.de/aufbaukurs-skulptra",
+      "cancel_url_praxis": "https://www.ephia.de/aufbaukurs-skulptra",
+      "cancel_url_kombi": "https://www.ephia.de/aufbaukurs-skulptra",
+      "status": "live"
+    },
     {
       "course_key": "aufbaukurs_botulinum_periorale_zone",
       "course_label_de": "Aufbaukurs Botulinum - Periorale Zone",

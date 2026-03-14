@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773510487282,
+  "updatedAt": 1773511585199,
   "rows": [
     {
       "id": "01KEMKN7G9SYD5TS7KGGCDRJV6",
@@ -137,6 +137,16 @@
       "label_de": "05. Jul 2026",
       "status": "open",
       "course_key": "grundkurs_dermalfiller",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "seats_left": 5
+    },
+    {
+      "id": "01KKPMAA9QP8325S90VXE2EXWN",
+      "date_iso": "2026-07-19T23:00:00.000Z",
+      "label_de": "19. Jul 2026",
+      "status": "open",
+      "course_key": "aufbaukurs_skulptra",
       "start_time": "10:00",
       "end_time": "16:00",
       "seats_left": 5

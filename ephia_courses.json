@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773506738194,
+  "updatedAt": 1773614960038,
   "courses": [
     {
       "course_key": "aufbaukurs_skulptra",
@@ -20,9 +20,9 @@
       "success_url_online": "https://www.ephia.de/vielen-lieben-dank",
       "success_url_praxis": "https://www.ephia.de/vielen-lieben-dank-praxiskurs",
       "success_url_kombi": "https://www.ephia.de/vielen-lieben-dank",
-      "cancel_url_online": "https://www.ephia.de/aufbaukurs-skulptra",
-      "cancel_url_praxis": "https://www.ephia.de/aufbaukurs-skulptra",
-      "cancel_url_kombi": "https://www.ephia.de/aufbaukurs-skulptra",
+      "cancel_url_online": "https://www.ephia.de/aufbaukurs-sculptra",
+      "cancel_url_praxis": "https://www.ephia.de/aufbaukurs-sculptra",
+      "cancel_url_kombi": "https://www.ephia.de/aufbaukurs-sculptra",
       "status": "live"
     },
     {

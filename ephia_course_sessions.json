@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773690336007,
+  "updatedAt": 1773690354079,
   "rows": [
     {
       "id": "01KEMKN7G9SYD5TS7KGGCDRJV6",
@@ -104,11 +104,11 @@
     {
       "id": "01KKW2W50YD2G836KPYFJBRCP9",
       "date_iso": "2026-06-14T23:00:00.000Z",
-      "label_de": "04. Jul 2026",
+      "label_de": "14. Jun 2026",
       "status": "open",
       "course_key": "masterclass_botulinum",
-      "start_time": "15:30",
-      "end_time": "21:30",
+      "start_time": "10:00",
+      "end_time": "16:00",
       "seats_left": 5
     },
     {

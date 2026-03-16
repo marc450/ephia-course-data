@@ -1,6 +1,30 @@
 {
-  "updatedAt": 1773690205486,
+  "updatedAt": 1773690226549,
   "courses": [
+    {
+      "course_key": "masterclass_botulinum",
+      "course_label_de": "Masterclass Botulinum",
+      "name_praxis": "Praxiskurs Masterclass Botulinum",
+      "name_kombi": "Kombikurs Masterclass Botulinum",
+      "name_online": "Onlinekurs Botulinum",
+      "currency": "EUR",
+      "price_gross_online": "490",
+      "price_gross_praxis": "1290",
+      "price_gross_kombi": "1290",
+      "vat_rate_online": "0.19",
+      "vat_rate_praxis": "0.19",
+      "vat_rate_kombi": "0.19",
+      "description_online": "Der Onlinekurs Masterclass Botulinum vertieft Deine Kenntnisse der Botulinumbehandlung und vermittelt Dir Strategien für präzise und ganzheitliche Behandlungen im gesamten Gesicht.",
+      "description_praxis": "In einer privaten Praxisumgebung in Berlin wendest Du Deine existierenden theoretischen Kenntnisse an echten Patient:innen an und wirst dabei von erfahrenen Ärzt:innen begleitet.",
+      "description_kombi": "Im Kombikurs Masterclass Botulinum verbindest Du Onlinekurs und Praxiskurs in Berlin und vertiefst Deine Kenntnisse an echten Patient:innen unter Begleitung erfahrener Ärzt:innen.",
+      "success_url_online": "https://www.ephia.de/vielen-lieben-dank",
+      "success_url_praxis": "https://www.ephia.de/vielen-lieben-dank-praxiskurs",
+      "success_url_kombi": "https://www.ephia.de/vielen-lieben-dank",
+      "cancel_url_online": "https://www.ephia.de/masterclass-botulinum",
+      "cancel_url_praxis": "https://www.ephia.de/masterclass-botulinum",
+      "cancel_url_kombi": "https://www.ephia.de/masterclass-botulinum",
+      "status": "live"
+    },
     {
       "course_key": "aufbaukurs_skulptra",
       "course_label_de": "Aufbaukurs Skulptra & Skinbooster",

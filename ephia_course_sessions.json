@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773690373805,
+  "updatedAt": 1773690390283,
   "rows": [
     {
       "id": "01KEMKN7G9SYD5TS7KGGCDRJV6",
@@ -102,7 +102,7 @@
       "seats_left": 4
     },
     {
-      "id": "01KKW2W50YD2G836KPYFJBRCP9",
+      "id": "01KKW2YHHBHK6AKBXN22A5SHW5",
       "date_iso": "2026-06-14T23:00:00.000Z",
       "label_de": "14. Jun 2026",
       "status": "open",
@@ -110,6 +110,16 @@
       "start_time": "10:00",
       "end_time": "16:00",
       "seats_left": 5
+    },
+    {
+      "id": "01KKW2W50YD2G836KPYFJBRCP9",
+      "date_iso": "2026-06-14T23:00:00.000Z",
+      "label_de": "14. Jun 2026",
+      "status": "open",
+      "course_key": "masterclass_botulinum",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "seats_left": 7
     },
     {
       "id": "01KBWQ58D9Z6M44ATZZHEA8ZJM",

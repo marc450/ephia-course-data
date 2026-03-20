@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773862905917,
+  "updatedAt": 1773998037060,
   "rows": [
     {
       "id": "01KEMKN7G9SYD5TS7KGGCDRJV6",
@@ -109,7 +109,7 @@
       "course_key": "masterclass_botulinum",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 6
+      "seats_left": 5
     },
     {
       "id": "01KBWQ58D9Z6M44ATZZHEA8ZJM",

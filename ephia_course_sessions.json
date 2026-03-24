@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774293636480,
+  "updatedAt": 1774344763892,
   "rows": [
     {
       "id": "01KBWPV2C44K2EW4455WSRHX1T",
@@ -89,7 +89,7 @@
       "course_key": "grundkurs_botulinum",
       "start_time": "10:00",
       "end_time": "16:00",
-      "seats_left": 4
+      "seats_left": 3
     },
     {
       "id": "01KKW2W50YD2G836KPYFJBRCP9",
